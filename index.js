@@ -47,6 +47,7 @@ async function fetchTodo() {
 }
 fetchTodo();
 
+console.log("End");
 
 
 
